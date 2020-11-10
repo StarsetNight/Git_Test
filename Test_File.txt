@@ -1,0 +1,11 @@
+This file is only for test if your Network and Git Tools are good.
+====================Test Article====================
+Lesson 1 of New Concert English 1
+Excuse me!
+Yes?
+Is this your handbag?
+Pardon?
+Is this your handbag?
+Yes, it is.
+Thank you very much.
+=====================The End=====================
